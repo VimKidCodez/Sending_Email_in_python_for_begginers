@@ -1,5 +1,5 @@
 # Using this we could send a email using python .
-# This emailer was made by : S D Sriram ,A student Studying in 7th Grade 
+# This emailer was made by : S D Sriram 
 # Hope you like this!!
 # You don't have to import anything ...........
 import smtplib
